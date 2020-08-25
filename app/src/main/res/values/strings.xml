@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Academy Minsk Movies</string>
+    <string name="endgame_title">Avengers: Endgame</string>
+    <string name="endgame_release_date">April 22, 2019</string>
+    <string name="endgame_overview">After the devastating events of Avengers: Infinity War, the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers must assemble once more in order to undo Thanos\' actions and restore order to the universe once and for all, no matter what consequences may be in store.</string>
+    <string name="endgame_trailer">https://youtu.be/hA6hldpSTF8</string>
+
+    <string name="released_title">Released:</string>
+    <string name="button_movie_trailer">Movie Trailer</string>
+    <string name="overview_title">Overview:</string>
+
+    <string name="content_description_movie_backdrop">Movie Backdrop</string>
+    <string name="content_description_movie_poster">Movie Poster</string>
+    <string name="menu_coroutine_activity_title">Open Coroutines Activity</string>
+    <string name="menu_thread_handler_activity_title">Open Thread Handler Activity</string>
+    <string name="coroutine_create">Create</string>
+    <string name="coroutine_start">Start</string>
+    <string name="coroutine_stop">Stop</string>
+
+    <string name="error_load_movies">Can\'t load movies: %1$s</string>
+    <string name="error_load_trailer">Can\'t load trailer: %1$s</string>
+    <string name="fragment_coroutine_title">Coroutine Title</string>
+    <string name="menu_delete_all_movies">Delete all movies</string>
+    <string name="menu_open_background_service_activity">Open backgound task</string>
+    <string name="notification_channel_name">androidacademy</string>
+    <string name="notification_text">Androidacademy</string>
+    <string name="generic_error">Something went wrong</string>
+    <string name="dialog_title">Permission needed</string>
+    <string name="dialog_message">To be able downloading requested file the app needs to access your files</string>
+    <string name="dialog_ok">OK</string>
+    <string name="notification_title">Downloading… %1$d%%</string>
+    <string name="notification_message">In progress</string>
+    <string name="channel_name">Default channel</string>
+    <string name="channel_description">It is a channel for default notifications</string>
+    <string name="notification_error_title">Error</string>
+    <string name="notification_error_message">Image can not be downloaded</string>
+</resources>
